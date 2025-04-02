@@ -1,8 +1,8 @@
-aub
+aub l29 lab
+bcom bba
 b.tech
 cse
 aiml
-
 ONE LINE IN TEXT BRANCH
 new courses
 AUB
