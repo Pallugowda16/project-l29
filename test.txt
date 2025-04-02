@@ -1,9 +1,9 @@
 aub
-mathematics
+MATHEMATICS
 physics 
 bun
 scm
 c
 c++
 ENGLISH
-WEB TECHNOLOGY
+WEB TECHNOLOY
