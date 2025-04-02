@@ -1,8 +1,8 @@
 aub
-maths
+mathematics
 physics 
 bun
-
 scm
 c
 c++
+eng
